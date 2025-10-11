@@ -1,0 +1,40 @@
+﻿ @model TraineeResultViewModel
+@{
+    ViewData["Title"] = "ShowTraineeResult";
+}
+
+<h1>Those are Course results of @Model.Name</h1>
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Course Name</th>
+            <th>Degree</th>
+            <th>Pass or Fail</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            @foreach(var course in Model.Crs)
+            {
+            
+                Model.color = course.Degree >60 ? "green" : "red";
+            <tr style="color: @Model.color">
+                <td>@course.Course.Name</td>
+            <td>@course.Degree</td>
+                <td>@if (Model.color == "green")
+                    {
+                        <span>Pass</span>
+                    }
+                    else 
+                    {
+                        <span>Fail</span> 
+                    }
+                </td>
+                <td>
+                <img src="~/Images/@Model.Image" alt="Instructor Image" width="100" />
+            </td>
+            </tr>
+            }
+    </tbody>
+</table>

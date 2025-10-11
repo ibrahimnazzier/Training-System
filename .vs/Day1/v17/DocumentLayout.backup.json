@@ -3,44 +3,99 @@
   "WorkspaceRootPath": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\trainee\\showresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\trainee\\showresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\trainee\\showtraineeresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\trainee\\showtraineeresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\viewmodel\\traineeresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\viewmodel\\traineeresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\viewmodel\\traineecourseresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\viewmodel\\traineecourseresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008113654_seedingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day1\\Migrations\\20251008113654_seedingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008111115_initCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day1\\Migrations\\20251008111115_initCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,20 +114,16 @@
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\migrations\\20251008113654_seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\migrations\\20251008113654_seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|d:\\iti full stack\\c# oop\\mvc\\day1\\day1\\migrations\\20251008111115_initcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A9B104-BD55-4E9D-B18C-5D8BA428C9EC}|Day1\\Day1.csproj|solutionrelative:day1\\migrations\\20251008111115_initcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,24 +133,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Details.cshtml",
-              "RelativeDocumentMoniker": "Day1\\Views\\Instructor\\Details.cshtml",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Details.cshtml",
-              "RelativeToolTip": "Day1\\Views\\Instructor\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvygAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T12:21:32.737Z",
+              "WhenOpened": "2025-10-11T18:15:01.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:59:03.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\.editorconfig",
+              "RelativeDocumentMoniker": "Day1\\Models\\.editorconfig",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\.editorconfig",
+              "RelativeToolTip": "Day1\\Models\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-11T12:57:22.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\appsettings.json",
+              "RelativeDocumentMoniker": "Day1\\appsettings.json",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\appsettings.json",
+              "RelativeToolTip": "Day1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:57:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T12:57:07.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:56:13.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowResult.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Trainee\\ShowResult.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Trainee\\ShowResult.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Trainee\\ShowResult.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Trainee\\ShowResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:40:01.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowTraineeResult.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Trainee\\ShowTraineeResult.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Trainee\\ShowTraineeResult.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Trainee\\ShowTraineeResult.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Trainee\\ShowTraineeResult.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T10:02:33.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Instructor\\Details.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Details.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Instructor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:21:32.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:18:36.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Day1\\Views\\Home\\Index.cshtml",
@@ -112,188 +271,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Index.cshtml",
-              "RelativeDocumentMoniker": "Day1\\Views\\Instructor\\Index.cshtml",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Index.cshtml",
-              "RelativeToolTip": "Day1\\Views\\Instructor\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T11:39:26.562Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwEwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:37:50.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InstructorController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\InstructorController.cs",
-              "RelativeDocumentMoniker": "Day1\\Controllers\\InstructorController.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\InstructorController.cs",
-              "RelativeToolTip": "Day1\\Controllers\\InstructorController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:38:45.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20251008113654_seedingData.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008113654_seedingData.cs",
-              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008113654_seedingData.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008113654_seedingData.cs",
-              "RelativeToolTip": "Day1\\Migrations\\20251008113654_seedingData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:36:55.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20251008111115_initCreation.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008111115_initCreation.cs",
-              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008111115_initCreation.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008111115_initCreation.cs",
-              "RelativeToolTip": "Day1\\Migrations\\20251008111115_initCreation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:11:15.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Day1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Day1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:18:36.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Context.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Context.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\Context.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Context.cs",
-              "RelativeToolTip": "Day1\\Models\\Context.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:00:24.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "crsResult.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\crsResult.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\crsResult.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\crsResult.cs",
-              "RelativeToolTip": "Day1\\Models\\crsResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:10:17.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20251008105433_initCreaton.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008105433_initCreaton.cs",
-              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008105433_initCreaton.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008105433_initCreaton.cs",
-              "RelativeToolTip": "Day1\\Migrations\\20251008105433_initCreaton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:54:33.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Trainee.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Trainee.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\Trainee.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Trainee.cs",
-              "RelativeToolTip": "Day1\\Models\\Trainee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:10:17.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\Instructor.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Instructor.cs",
-              "RelativeToolTip": "Day1\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAywBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:10:17.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\Department.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Department.cs",
-              "RelativeToolTip": "Day1\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:10:16.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Day1\\Models\\Course.cs",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Course.cs",
-              "RelativeToolTip": "Day1\\Models\\Course.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:06:26.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Day1",
-              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Day1.csproj",
-              "RelativeDocumentMoniker": "Day1\\Day1.csproj",
-              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Day1.csproj",
-              "RelativeToolTip": "Day1\\Day1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T10:00:26.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": ".editorconfig",
               "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\.editorconfig",
               "RelativeDocumentMoniker": "Day1\\Models\\.editorconfig",
               "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\.editorconfig",
               "RelativeToolTip": "Day1\\Models\\.editorconfig",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-08T10:09:01.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T10:09:01.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TraineeResultViewModel.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\ViewModel\\TraineeResultViewModel.cs",
+              "RelativeDocumentMoniker": "Day1\\ViewModel\\TraineeResultViewModel.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\ViewModel\\TraineeResultViewModel.cs",
+              "RelativeToolTip": "Day1\\ViewModel\\TraineeResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:59:01.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Day1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:41:29.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T11:39:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MyPage.cshtml",
               "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Views\\Home\\MyPage.cshtml",
               "RelativeDocumentMoniker": "Day1\\Views\\Home\\MyPage.cshtml",
@@ -301,12 +338,165 @@
               "RelativeToolTip": "Day1\\Views\\Home\\MyPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T12:20:20.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T12:20:20.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:38:45.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAE8CAAAAAAAAAAASwGYCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-10T23:56:07.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TraineeCourseResultViewModel.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\ViewModel\\TraineeCourseResultViewModel.cs",
+              "RelativeDocumentMoniker": "Day1\\ViewModel\\TraineeCourseResultViewModel.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\ViewModel\\TraineeCourseResultViewModel.cs",
+              "RelativeToolTip": "Day1\\ViewModel\\TraineeCourseResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:26:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251008113654_seedingData.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008113654_seedingData.cs",
+              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008113654_seedingData.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008113654_seedingData.cs",
+              "RelativeToolTip": "Day1\\Migrations\\20251008113654_seedingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:36:55.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251008111115_initCreation.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008111115_initCreation.cs",
+              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008111115_initCreation.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008111115_initCreation.cs",
+              "RelativeToolTip": "Day1\\Migrations\\20251008111115_initCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:11:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Context.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Context.cs",
+              "RelativeToolTip": "Day1\\Models\\Context.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:00:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Day1.csproj",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Day1.csproj",
+              "RelativeDocumentMoniker": "Day1\\Day1.csproj",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Day1.csproj",
+              "RelativeToolTip": "Day1\\Day1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T10:00:26.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "crsResult.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\crsResult.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\crsResult.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\crsResult.cs",
+              "RelativeToolTip": "Day1\\Models\\crsResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:10:17.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251008105433_initCreaton.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008105433_initCreaton.cs",
+              "RelativeDocumentMoniker": "Day1\\Migrations\\20251008105433_initCreaton.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Migrations\\20251008105433_initCreaton.cs",
+              "RelativeToolTip": "Day1\\Migrations\\20251008105433_initCreaton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:54:33.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Trainee.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Trainee.cs",
+              "RelativeToolTip": "Day1\\Models\\Trainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:10:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Instructor.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Instructor.cs",
+              "RelativeToolTip": "Day1\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:10:17.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Department.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Department.cs",
+              "RelativeToolTip": "Day1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:10:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Course.cs",
+              "ToolTip": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\Course.cs",
+              "RelativeToolTip": "Day1\\Models\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:06:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\ITI Full Stack\\C# OOP\\MVC\\Day1\\Day1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Day1\\Models\\ErrorViewModel.cs",
@@ -314,16 +504,15 @@
               "RelativeToolTip": "Day1\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T21:06:31.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-10-06T21:06:31.562Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

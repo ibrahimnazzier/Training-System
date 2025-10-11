@@ -1,0 +1,30 @@
+﻿@model Instructor
+
+<h1> This is @Model.Name Details </h1>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Salary</th>
+            <th>Department ID</th>
+            <th>Course ID</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Name</td>
+            <td>@Model.Address</td>
+            <td>@Model.Salary</td>
+            <td>@Model.DepartmentID</td>
+            <td>@Model.CourseID</td>
+            <td>
+                <img src="~/Images/@Model.Img" alt="Instructor Image" width="100" />
+            </td>
+        </tr>
+    </tbody>
+</table>

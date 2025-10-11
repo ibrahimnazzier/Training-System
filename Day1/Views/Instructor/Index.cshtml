@@ -1,0 +1,32 @@
+﻿@model List<Instructor>
+
+
+	<h1>Those are our instructors</h1>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Address</th>
+				<th>Salary</th>
+				<th>Department ID</th>
+				<th>Course ID</th>
+				<th>Image</th>
+
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var i in Model){
+				<tr>
+			<td>@i.Id</td>
+			<td>@i.Name</td>
+			<td>@i.Address</td>
+			<td>@i.Salary</td>
+			<td>@i.DepartmentID</td>
+			<td>@i.CourseID</td>
+			<td><img src="/Images/@i.Img" width="100"/></td>
+			</tr>
+			}
+		</tbody>
+	</table>

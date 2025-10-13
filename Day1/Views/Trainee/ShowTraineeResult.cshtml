@@ -9,31 +9,17 @@
         <tr>
             <th>Course Name</th>
             <th>Degree</th>
-            <th>Pass or Fail</th>
-            <th>Image</th>
+            <th>Status</th>
         </tr>
     </thead>
     <tbody>
         
             @foreach(var course in Model.Crs)
-            {
-            
-                Model.color = course.Degree >60 ? "green" : "red";
-            <tr style="color: @Model.color">
-                <td>@course.Course.Name</td>
-            <td>@course.Degree</td>
-                <td>@if (Model.color == "green")
-                    {
-                        <span>Pass</span>
-                    }
-                    else 
-                    {
-                        <span>Fail</span> 
-                    }
-                </td>
-                <td>
-                <img src="~/Images/@Model.Image" alt="Instructor Image" width="100" />
-            </td>
+            {    
+            <tr style="color: @course.Color">
+                <td>@course.CourseName</td>
+            <td>@course.CourseDegree</td>
+                <td>@course.Status</td>
             </tr>
             }
     </tbody>

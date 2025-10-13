@@ -7,6 +7,7 @@
 
         public int CourseDegree { get; set; }
 
+        public string Status    { get; set; }
         public string ResultColor { get; set; }
     }
 }

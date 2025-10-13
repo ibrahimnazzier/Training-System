@@ -6,10 +6,11 @@ namespace Day1.ViewModel
     {
         public string Name { get; set; }
 
-        public string color { get; set; }
 
         public string Image {  get; set; }
-        public ICollection<crsResult> Crs { get; set; }
+
+
+        public ICollection<CourseResultViewModel> Crs { get; set; }
 
     }
 }

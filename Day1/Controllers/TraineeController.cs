@@ -37,7 +37,10 @@ namespace Day1.Controllers
             //    return Content("This Course ID is not valid");
             //}
 
-            crsResult? crsResult = c1.CrsResult.Include(cr=>cr.Course).Include(cr => cr.Trainee).FirstOrDefault(cr => (cr.CourseID == crs && cr.TraineeID == id));
+            crsResult? crsResult = c1.CrsResult
+                .Include(cr=>cr.Course)
+                .Include(cr => cr.Trainee)
+                .FirstOrDefault(cr => (cr.CourseID == crs && cr.TraineeID == id));
             if (crsResult != null)
             {
                 if (crsResult.Trainee != null)
@@ -58,13 +61,16 @@ namespace Day1.Controllers
                     return Content("This Course ID is not valid");
                 }
                 TraineeCourseResultViewModel.CourseDegree = crsResult.Degree;
-                if(TraineeCourseResultViewModel.CourseDegree>60)
+                if(TraineeCourseResultViewModel.CourseDegree>crsResult.Course.minDegree)
                 {
                     TraineeCourseResultViewModel.ResultColor = "green";
+                    TraineeCourseResultViewModel.Status = "Pass";
                 }
                 else 
                 {
                     TraineeCourseResultViewModel.ResultColor = "red";
+                    TraineeCourseResultViewModel.Status = "Fail";
+
                 }
             }
             else {
@@ -77,8 +83,10 @@ namespace Day1.Controllers
         public IActionResult ShowTraineeResult(int id)
         {
             TraineeResultViewModel traineeResultViewModel = new TraineeResultViewModel();
+            List<CourseResultViewModel> CRVMlist = new List<CourseResultViewModel>();
 
-           Trainee? t = c1.Trainee
+
+            Trainee? t = c1.Trainee
                 .Where(t1=>t1.Id == id)
                 .Include(t1 => t1.CrsResult)
                 .ThenInclude(cr => cr.Course)
@@ -97,10 +105,28 @@ namespace Day1.Controllers
                 }
                 else
                 {
-                    traineeResultViewModel.Crs = t.CrsResult;
-                    return View(traineeResultViewModel);
+                    foreach(var item in t.CrsResult)
+                    {
+                        CourseResultViewModel c = new CourseResultViewModel();
+                        c.CourseDegree = item.Degree;
+                        c.CourseName = item.Course.Name;
+
+                        if (c.CourseDegree < item.Course.minDegree)
+                        {
+                            c.Color = "red";
+                            c.Status = "Fail";
+                        }
+                        else
+                        {
+                            c.Color = "green";
+                            c.Status = "Pass";
+                        }
+                        CRVMlist.Add(c);
+                    }
+                    traineeResultViewModel.Crs = CRVMlist;
                 }
             }
+            return View(traineeResultViewModel);
         }
     }
 }

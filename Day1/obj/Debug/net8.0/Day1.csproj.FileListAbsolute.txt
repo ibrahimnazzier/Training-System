@@ -281,6 +281,10 @@ D:\ITI Full Stack\مصطفى حمودة\Day1\Day1\obj\Debug\net8.0\Day1.pdb
 D:\ITI Full Stack\مصطفى حمودة\Day1\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
 D:\ITI Full Stack\مصطفى حمودة\Day1\Day1\obj\Debug\net8.0\ref\Day1.dll
 D:\ITI Full Stack\مصطفى حمودة\Day1\Day1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\appsettings.Development.json
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\appsettings.json
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Day1.staticwebassets.runtime.json
@@ -291,7 +295,6 @@ D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Day1.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Day1.pdb
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Azure.Core.dll
-D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Azure.Identity.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Humanizer.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -327,8 +330,6 @@ D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Dep
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -535,7 +536,6 @@ D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win\lib\net6.0\
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ITI Full Stack\C# OOP\MVC\Day1\Day1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

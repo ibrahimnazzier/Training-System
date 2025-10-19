@@ -1,0 +1,32 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+
+<h1>Those are our Courses</h1>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+			<tr>
+				<th>Name</th>
+				<th>Degree</th>
+				<th>Minimum Degree</th>
+				<th>Department</th>
+				<th>Hours</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var i in Model){
+				<tr>
+			<td>@i.Name</td>
+			<td>@i.degree</td>
+			<td>@i.minDegree</td>
+			<td>@i.Hours</td>
+			<td>@i.Department.Name</td>
+			</tr>
+			}
+		</tbody>
+	</table>
+	<a asp-action="AddCourse" class="btn btn-success">Add New Course</a>

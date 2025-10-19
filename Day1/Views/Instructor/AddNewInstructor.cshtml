@@ -1,0 +1,151 @@
+﻿@model InstuctorCourseDepartmentsViewModel
+@{
+    ViewData["Title"] = "Add New Instructor";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h1 class="card-title mb-0">Add New Instructor</h1>
+                </div>
+                <div class="card-body">
+                    <form action="/Instructor/SaveNewInstructor" method="post" class="needs-validation" novalidate>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="Name" class="form-label">Name</label>
+                                <input type="text" name="Name" id="Name" value="@Model.Name" class="form-control" required/>
+                                <div class="invalid-feedback">
+                                    Please enter the instructor's name.
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="Address" class="form-label">Address</label>
+                                <input type="text" name="Address" id="Address" value="@Model.Address" class="form-control" required/>
+                                <div class="invalid-feedback">
+                                    Please enter the instructor's address.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="Salary" class="form-label">Salary</label>
+                                <input type="number" name="Salary" id="Salary" value="@Model.Salary" class="form-control" required/>
+                                <div class="invalid-feedback">
+                                    Please enter the salary.
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="Image" class="form-label">Image URL</label>
+                                <input type="text" name="Img" id="Image" value="@Model.Img" class="form-control"/>
+                                <div class="form-text">Paste a direct link to the image.</div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="DepartmentID" class="form-label">Department</label>
+                                <select name="DepartmentID" id="DepartmentID" class="form-select" onchange="ShowCourse(this.value)">
+                                    @foreach (var item in @Model.Departments)
+                                    {
+                                          @if(Model.DepartmentID == item.Id)
+
+                                            {
+
+                                            <option value="@item.Id" selected>@item.Name</option>
+
+                                            }
+
+                                            else
+
+                                            {
+
+                                            <option value="@item.Id">@item.Name</option>
+
+                                            } 
+
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                            <label for="CourseID" class="form-label">Course</label>
+                            <select name="CourseID" id="CourseID" class="form-select">
+                            </select>
+                        </div>
+                        </div>
+
+                        <div class="d-grid gap-2 mt-4">
+                            <input type="submit" class="btn btn-success btn-lg" value="Add Instructor" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <a href="/instructor/index" class="d-grid gap-2 mt-4 btn btn-success btn-lg">Back to list</a>
+        </div>
+    </div>
+</div>
+
+@* <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script>
+    // function ShowCourse(deptId){
+    //     var dept = deptId.value;
+    //      console.log(deptId);
+
+
+    //     $.ajax({
+    //         url: "/Course/GetCourseByDeptId?deptId="+deptId,
+    //         success: function (result) {
+    //             console.log(result);
+    //             $("#Courses").empty();
+    //             for (let emp of result) {
+                  
+    //                 $("#Courses").append(`<option value="${course.id}">${course.name}</option>`);
+
+    //             }
+    //         }
+    //     });
+    // }
+    function ShowCourse(deptId){
+    console.log(deptId);
+    $.ajax({
+        url: "/Course/GetCourseByDeptId?deptId=" + deptId,
+        success: function (result) {
+            console.log(result);
+            $("#CourseID").empty();
+            for (let course of result) {
+                $("#CourseID").append(`<option value="${course.id}">${course.name}</option>`);
+            }
+        }
+    });
+}
+
+
+</script>
+ *@
+ <script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    function ShowCourse(deptId) {
+        // 'deptId' already contains the value from the dropdown (e.g., "5").
+        // The line 'var dept = deptId.value;' was incorrect and has been removed.
+        console.log(deptId);
+
+        $.ajax({
+            url: "/Course/GetCourseByDeptId?deptId=" + deptId,
+            success: function (result) {
+                console.log(result);
+                // Corrected the jQuery selector to use the correct ID: "#CourseID"
+                var courseDropdown = $("#CourseID"); 
+                courseDropdown.empty(); // Clear existing options
+
+                // The loop variable was changed from 'emp' to 'course' to match the properties being accessed.
+                for (let course of result) {
+                    // Appended the new options to the correct dropdown.
+                    courseDropdown.append(`<option value="${course.id}">${course.name}</option>`);
+                }
+            }
+        });
+    }
+</script>

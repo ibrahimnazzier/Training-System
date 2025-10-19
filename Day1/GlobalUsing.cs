@@ -1,0 +1,1 @@
+﻿global using Day1.ViewModel;

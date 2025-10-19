@@ -4,6 +4,11 @@ namespace Day1.Models
     public class Context :  DbContext
     {
         public Context() :base() { }
+
+        public Context(DbContextOptions<Context> dbContextOptions) : base(dbContextOptions)
+        {
+            
+        }
         public DbSet<Department> Department { get; set; }
 
         public DbSet<Course> Course { get; set; }

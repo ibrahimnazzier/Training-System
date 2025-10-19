@@ -1,3 +1,8 @@
+using Day1.Models;
+using Day1.Repositories;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 namespace Day1
 {
     public class Program
@@ -12,8 +17,13 @@ namespace Day1
             {
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
 
-            }); 
-
+            });
+            builder.Services.AddDbContext<Context>(option =>
+            {
+                option.UseSqlServer(builder.Configuration.GetConnectionString("TS"));
+            });
+            builder.Services.AddScoped<ICouresRepository, CourseRepository>();
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
